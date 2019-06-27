@@ -1,0 +1,9 @@
+#camContainer {
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+#viewArea {
+    width: 100%;
+} 

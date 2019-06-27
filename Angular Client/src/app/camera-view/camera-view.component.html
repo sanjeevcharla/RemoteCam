@@ -1,0 +1,4 @@
+<div id="camContainer" *ngIf="capture!=null">
+    <div>Captured Time : {{capture?.timeStamp}}</div>
+    <div><img id="viewArea" [src]="capture?.imageUrl"/></div>
+</div>
