@@ -45,7 +45,7 @@ The software consists of three parts:
 ### Email Response
 ![MailResponse](Docs/MailResponse.png)
 
-*If we request RemoteCam by sending an email, it will response with the remote capture.* 
+*If we request RemoteCam by sending an email, it will responsd with the remote capture.* 
 
 PS: Please get credentials using <a href='https://developers.google.com/gmail/api/' target='_blank'>Gmail API</a>.
 
